@@ -21,7 +21,7 @@ Structural patterns:
 [ ] Proxy
 
 Behavioral patterns:
-[ ] Chain of Responsibility
+[X] Chain of Responsibility
 [ ] Command
 [ ] Iterator
 [ ] Mediator
