@@ -5,7 +5,7 @@ This aims to provide an implementation of various design patterns in modern C++.
 Design patterns:
 
 Creational patterns:
-[ ] Factory Method
+[X] Factory Method
 [ ] Abstract Factory
 [ ] Builder
 [ ] Prototype
