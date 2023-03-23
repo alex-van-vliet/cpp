@@ -4,6 +4,7 @@ project(design_patterns)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(abstract_factory abstract_factory.cpp)
+add_executable(adapter adapter.cpp)
 add_executable(builder builder.cpp)
 add_executable(factory_method factory_method.cpp)
 add_executable(prototype prototype.cpp)

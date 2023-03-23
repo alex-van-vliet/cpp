@@ -12,7 +12,7 @@ Creational patterns:
 [X] Singleton
 
 Structural patterns:
-[ ] Adapter
+[X] Adapter
 [ ] Bridge
 [ ] Composite
 [ ] Decorator
