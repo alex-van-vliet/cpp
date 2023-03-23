@@ -7,7 +7,7 @@ Design patterns:
 Creational patterns:
 [X] Factory Method
 [X] Abstract Factory
-[ ] Builder
+[X] Builder
 [ ] Prototype
 [ ] Singleton
 
