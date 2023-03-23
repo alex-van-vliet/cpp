@@ -9,7 +9,7 @@ Creational patterns:
 [X] Abstract Factory
 [X] Builder
 [X] Prototype
-[ ] Singleton
+[X] Singleton
 
 Structural patterns:
 [ ] Adapter
