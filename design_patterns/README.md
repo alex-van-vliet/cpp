@@ -26,7 +26,7 @@ Behavioral patterns:
 [ ] Iterator
 [ ] Mediator
 [ ] Memento
-[ ] Observer
+[X] Observer
 [ ] State
 [ ] Strategy
 [ ] Template Method
